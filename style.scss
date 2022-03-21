@@ -1,0 +1,60 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgb(255, 255, 255);
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: rgb(16, 122, 122);
+}
+
+h1{
+    font-size: big;
+    position:static;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+nav {
+    ul {
+      margin: 10;
+      padding: 10;
+      list-style: none;
+      background-color: aqua;
+      
+    }
+  
+    li { display: inline-block; }
+  
+    a {
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+    }
+  }
+
+button{
+    margin:center;
+    padding: center;
+}
+
+footer{
+    ul {
+        margin: 10;
+        padding: 10;
+        list-style: none;
+        background-color: aqua;
+        
+      }
+    
+      li { display: inline-block; }
+    
+      a {
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+      }
+
+}
+
+
+

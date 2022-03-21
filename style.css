@@ -1,0 +1,48 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: white;
+  background-color: #107a7a;
+}
+
+h1 {
+  font-size: big;
+  position: static;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+nav ul {
+  margin: 10;
+  padding: 10;
+  list-style: none;
+  background-color: aqua;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+button {
+  margin: center;
+  padding: center;
+}
+
+footer ul {
+  margin: 10;
+  padding: 10;
+  list-style: none;
+  background-color: aqua;
+}
+footer li {
+  display: inline-block;
+}
+footer a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
